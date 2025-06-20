@@ -1,3 +1,4 @@
 name=zhangsna 
 age=45
 dept=bat
+sex=男
