@@ -1,1 +1,3 @@
-sd
+name=zhangsna 
+age=45
+dept=bat
